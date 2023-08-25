@@ -38,4 +38,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to customize this README template according to your project's specifics. Providing clear and concise information will help users understand and utilize the AHB Bus Protocol effectively.
-```
