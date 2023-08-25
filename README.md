@@ -22,10 +22,10 @@ The Advanced High-Performance Bus (AHB) is an industry-standard bus protocol use
 
 Clone this repository to get started with the AHB Bus Protocol:
 
-
+```
 git clone https://github.com/Ishaananish/AHB_Bus_Protocol.git
 cd AHB_Bus_Protocol
-
+```
 
 ## Contributing
 
